@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":0,"description":"The standard wepon for anyone in IT","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":124,"name":"Keyboard","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":2,"animationId":0,"description":"Flashy lights, an ergonomic design, everything\nyou could ever need in a keyboard","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.1}],"iconIndex":125,"name":"Comfort Keyboard","note":"","params":[0,0,30,10,0,0,10,0],"price":0,"wtypeId":13}
+]
